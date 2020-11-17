@@ -9,7 +9,7 @@
 ---
 ### Work Experience
 
-2+ years as an engineer at the Naval Undersea Warfare Center Division Newport in the Surface Ships Systems Engineering branch.
+2 years as an engineering intern and 2+ years as an engineer at the Naval Undersea Warfare Center Division Newport in the Surface Ships Systems Engineering branch.
 
 ---
 ### Recent Projects
