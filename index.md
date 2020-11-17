@@ -3,18 +3,20 @@
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+1. B.S. Ocean Engineering, URI, 2018
+2. M.S. Ocean Engineering, URI, In Progress
 
 ---
 ### Work Experience
 
+2+ years as an engineer at the Naval Undersea Warfare Center Division Newport in the Surface Ships Systems Engineering branch.
 
 ---
 ### Recent Projects
 
+- [Undergraduate Senior Design Project- Digski](http://hardmanim.github.io/pdf/OCE_495_Report.pdf)
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [MATE ROV Competition (High School)](http://hardmanim.github.io/pdf/Tech Report compiled.pdf)
 
 ---
 
