@@ -29,8 +29,11 @@ M.S.
 
 ---
 ### Language Competencies
+
 MATLAB - Proficient
+
 Python - Somewhat experienced
+
 C/C++ -  Minimal experience
 
 ---
