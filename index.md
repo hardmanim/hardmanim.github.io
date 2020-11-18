@@ -28,5 +28,11 @@ University of Rhode Island to obtain my B.S. in ocean engineering with a concent
 M.S.
 
 ---
+### Language Competencies
+MATLAB - Proficient
+Python - Somewhat experienced
+C/C++ -  Minimal experience
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
